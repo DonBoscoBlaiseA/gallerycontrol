@@ -10,7 +10,19 @@ To create a gallery control using android studio to display images or photos.
 Latest Version Android Studio
 
 ## ALGORITHM:
+Step 1: Open Android Stdio and then click on File -> New -> New project.
 
+Step 2: Then type the Application name as gallerycontrol and click Next.
+
+Step 3: Then select the Minimum SDK as shown below and click Next.
+
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+
+Step 5: Design layout using UI components in activity_main.xml.
+
+Step 6: Display the gallerycontrol operation in MainActivity file.
+
+Step 7: Save and run the application.
 
 
 ## PROGRAM:
@@ -144,11 +156,12 @@ public class MainActivity extends Activity {
         }
     }
 }
-```
+```  
 
-## OUTPUT
-<img src="https://github.com/DonBoscoBlaiseA/gallerycontrol/assets/140850829/a1a36fef-1eac-481b-9f07-6850743d3dc2.png" height="600">
-
+## OUTPUT 
+<img src="https://github.com/DonBoscoBlaiseA/gallerycontrol/assets/140850829/091a1a41-f238-4277-b658-e54d21720588.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/gallerycontrol/assets/140850829/2266b7c5-5d3f-4254-a8d3-5dc582b224c5.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/gallerycontrol/assets/140850829/19f69e36-1551-4e94-a85b-1420ee4ac68a.png" height="600">
 
 
 ## RESULT
